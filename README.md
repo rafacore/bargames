@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# FIND GAMES
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a platform were you can find games and discover more about them, it was developed based in Reactjs, hooks, react router, CSS-modules and Axios to fetch data from API.
 
-## Available Scripts
+What are the highlights of your logic/code writing style?
 
-In the project directory, you can run:
+I have used the latest features of Reactjs hooks with JavaScript es6, CSS was also used, CSS-module and CSS grid making the layout more responsive and with a clean look, smooth and without many coding lines.
 
-### `yarn start`
+What could you do better in your code next iteration?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Technically for this version we could add some lib to help with the queries and cache information, we could also split more our components, loading in order to change the screen and also include lazy loading in order to load the data slowly.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+On the business side of it in mind, we could evolve it for a kind of forum where people could share information and help each other, we could also make an app using React native.
 
-### `yarn test`
+# Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+You will need to clone the project from the following link:
 
-### `yarn build`
+[https://github.com/rafacore/bargames.git]
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Using the command “git clone” on your command terminal, for example:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+git clone https://github.com/rafacore/bargames.gitno
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+You’ll need to have Node 10.16.0 or later version on your local development machine (but it’s not required on the server).
 
-### `yarn eject`
+We recommend using the latest LTS version.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Prerequisites
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+You’ll need to have Node 10.16.0 or later version on your local development machine (but it is not required on the server) for that go to https://nodejs.org/en/download/ and download it for your operating system
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+after installing try node -v to see the version
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Installing
 
-## Learn More
+After the project is cloned you just need to go in your project’s folder using the commands terminal, then simply run it.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+npm install - to install the dependencies in the project
+npm start – to run the app.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Open http://localhost:3000 to view it in the browser.
 
-### Code Splitting
+# Built With
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Reactjs
+React Router
+Nodejs
+Axios
+CSS - modules
 
-### Analyzing the Bundle Size
+# Authors
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Rafael Nascimento
+[https://www.linkedin.com/in/rafaelandradedonascimento/](https://www.linkedin.com/in/rafaelandradedonascimento/)
